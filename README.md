@@ -3,6 +3,9 @@ This repository consists of our statistics project that we have undertaken to fu
 
 
 Name of students 
+
 1-Amanj Falah  
+
 2-Bashir Nazir 
+
 3-Zhilwan Tahir
